@@ -1,0 +1,12 @@
+{
+  "name": "autotax-ai",
+  "version": "1.0.0",
+  "description": "AI-Powered Tax Assistant for Philippines",
+  "scripts": {
+    "build": "echo 'No build process needed'",
+    "dev": "echo 'Run with live server'"
+  },
+  "keywords": ["tax", "ai", "philippines", "bir"],
+  "author": "AutoTax AI Team",
+  "license": "MIT"
+}
