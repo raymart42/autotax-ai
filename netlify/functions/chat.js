@@ -24,7 +24,7 @@ exports.handler = async (event) => {
       body: JSON.stringify({
         model: "openai/gpt-oss-20b:free",
         messages: messages,
-        max_tokens: 1000,
+        max_tokens: 2000,
         temperature: 0.7,
       }),
     });
@@ -60,4 +60,5 @@ exports.handler = async (event) => {
       })
     };
   }
+
 };
